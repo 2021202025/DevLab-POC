@@ -1,1 +1,1 @@
-print("Hello from ADP Demo")
+print("Hello from ADP")
