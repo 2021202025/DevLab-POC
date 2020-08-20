@@ -20,5 +20,5 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 - script: |
-    python ADDPDemo.py
+    python ADPDemo.py
   displayName: 'Project Executing'
